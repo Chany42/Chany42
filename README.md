@@ -66,7 +66,6 @@
 
 </table>
 <hr>
-<h4 align="center">Other – <a href='http://gothboy.me' target="_blank">gothboy.me</a><h4>
     
 -----
 Credits: [Banshee](https://github.com/banshee0x)
