@@ -1,6 +1,6 @@
 
 <h1>I'm Banshee & I ❤️ code.</h1>
-<h4>Hi, I Am Banshee, I live in  Turkey and I'm a student. I want to share the codes I made to improve myself here. </h4>
+<h4>Hi, I Am Banshee, I live in  🇹🇷 Turkey and I'm a student. I want to share the codes I made to improve myself here. </h4>
 <h4>Currently i work at private orders but i always open for cooperation </h4>
 <h2>📝 Statistics: </h2>
 <table>
