@@ -68,4 +68,4 @@
 <hr>
     
 -----
-Credits: [Chany](https://github.com/ch4ny0)
+Credits: [Chany](https://github.com/chanyeverywhere)
