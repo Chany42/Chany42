@@ -1,6 +1,6 @@
 
-<h1>I'm Mochi & I ❤️ code.</h1>
-<h4>Hi, I Am Mochi, I live in  (🇹🇷) Turkey and I'm a student. I want to share the codes I made to improve myself here. </h4>
+<h1>I'm Chany & I ❤️ code.</h1>
+<h4>Hi, I Am Chany, I live in  (🇹🇷) Turkey and I'm a student. I want to share the codes I made to improve myself here. </h4>
 <h4>Currently i work at private orders but i always open for cooperation </h4>
 <h2>📝 Statistics: </h2>
 <table>
@@ -68,4 +68,4 @@
 <hr>
     
 -----
-Credits: [Mochi](https://github.com/banshee0x)
+Credits: [Chany](https://github.com/ch4ny0)
