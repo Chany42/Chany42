@@ -1,71 +1,18 @@
+<h1 align="center">Hi 👋, I'm Chany</h1>
+<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
 
-<h1>I'm Chany & I ❤️ code.</h1>
-<h4>Hi, I Am Chany, I live in  (🇹🇷) Turkey and I'm a student. I want to share the codes I made to improve myself here. </h4>
-<h4>Currently i work at private orders but i always open for cooperation </h4>
-<h2>📝 Statistics: </h2>
-<table>
-  <tr>
-    <td valign="top">
-      <h3>My stack: </h3>
-      <h6>📒&emsp;<a href="https://github.com/banshee0x?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
-      <h6>📗&emsp;<a href="https://github.com/banshee0x?tab=repositories&q=&type=&language=c%23">HTML</a> ( Junior )</h6>
-      <h6>📘&emsp;<a href="https://github.com/banshee0x?tab=repositories&q=&type=&language=golang">JavaScript</a> ( Intern )</h6>
-      </td>
-     <td valign="top">
-      <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp; – <a href='https://github.com/banshee0x/pywelcomebot'>Pywelcome</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp; – <a href='https://github.com/banshee0x/discord-token-generator'>discord-token-generatorr</a></h6> 
-        </td>
-  </tr>
-</table>
-<h2>📊 Weekly development breakdown: </h2>
-<table>
-                <tr>
-                    <td width=215px;>
-                        Python
-                    </td>
-                    <td>
-                        11 hrs 43 mins
-                    </td>
-                    <td>
-                        ███░░░░░░░░&nbsp;&nbsp;(35.01 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        CSS
-                    </td>
-                    <td width=145px;>
-                        3 hrs 8 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(17.92 %)
-                    </td>
-                </tr>
-                <tr>
-                    <td width=220px;>
-                        HTML
-                    </td>
-                    <td width=145px;>
-                        2 hrs 27 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(14.08 %)
-                    </td>
-                                      <td width=220px;>
-                        JavaScript
-                    </td>
-                    <td width=145px;>
-                        3 hrs 15 mins
-                    </td>
-                    <td width=230px;>
-                        █░░░░░░░&nbsp;&nbsp;(17.08 %)
-                    </td>
-                </tr>
+- 🌱 I’m currently learning **React**
 
+- 👨‍💻 All of my projects are available at [https://github.com/chanyeverywhere](https://github.com/chanyeverywhere)
 
-</table>
-<hr>
-    
------
-Credits: [Chany](https://github.com/chanyeverywhere)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanyeverywhere&show_icons=true&locale=en&layout=compact" alt="chanyeverywhere" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanyeverywhere&" alt="chanyeverywhere" /></p>
+
